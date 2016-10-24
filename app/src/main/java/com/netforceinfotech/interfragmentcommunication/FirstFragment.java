@@ -18,6 +18,8 @@ public class FirstFragment extends Fragment {
     EditText nameEditText;
     Button firstButton ;
     OnNameSetListener onNameSetListener;
+
+//    Here have to edit something
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
